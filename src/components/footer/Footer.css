@@ -1,0 +1,24 @@
+footer{
+    background-image: url(./fondo.jpg);
+}
+.box-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    padding: 2rem;
+    background-color: rgb(117,41,149, 0.5);
+}
+.box-footer i{
+    font-size:60px;
+    margin: auto;
+    padding-bottom: 12px;
+    color: var(--white-color);
+   
+}
+.foot h3 {
+    color: #F3F3F3;
+}
+.foot p {
+    color: #F3F3F3;
+}

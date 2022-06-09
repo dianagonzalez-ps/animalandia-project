@@ -1,0 +1,15 @@
+.modal-body{
+    background-color: rgb(130, 153, 214);
+}
+
+.modal-title{
+    font-size: 30px;
+    font-weight: bolder;
+    color: rgb(107, 8, 82);
+}
+
+.modal-subtittle{
+    color: rgb(107, 8, 82); 
+    font-size: 24px;
+    font-weight: 600;
+}

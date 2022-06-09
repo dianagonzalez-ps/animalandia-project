@@ -1,0 +1,32 @@
+
+.card-img-top{
+    width: 220px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.card{
+    border-color:var(--purple-color);
+    background-color: var(--purpleligth-color);
+    height: 450px;
+}
+
+.btn-primary{
+    background: var(--blue-color);
+    border-color: var(--blue-color);
+}
+.btn-primary:hover{
+    background-color:rgb(183, 49, 236);
+    color: var(--dark-color);
+    border-color: var(--purple-color);
+}
+
+.card-body{
+    background-color: var(--purpleligth-color);
+}
+
+.card-title{
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 700;
+    color:rgb(41, 6, 32); 
+}
